@@ -1,0 +1,98 @@
+
+---Downloaded files---
+The import files for: Ski Rentals were successfully downloaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://preview.onl/justgrabit
+Data file = /home3/previewo/public_html/justgrabit/wp-content/themes/wprentals/wpestate_templates/skirent/theme_content.xml
+Widget file = /home3/previewo/public_html/justgrabit/wp-content/themes/wprentals/wpestate_templates/skirent/widgets.wie
+Customizer file = not defined!
+Redux files:
+wprentals_admin -> /home3/previewo/public_html/justgrabit/wp-content/themes/wprentals/wpestate_templates/skirent/redux_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sledge-snow-sledge" (Media)
+
+
+---Importing widgets---
+orphaned_widgets_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+
+custom-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Multiple currency widget - Change Currency - Imported to Inactive
+Wp Estate: Advanced Search - Advanced Search - Imported to Inactive
+Wp Estate: Latest Listing  - Latest Listings - Imported to Inactive
+Wp Estate: Contact - Contact - Imported to Inactive
+Wp Estate: Featured Listing - No Title - Imported to Inactive
+
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+
+First Footer Widget Area : 
+
+Wp Estate: Multiple currency widget - Change Currency - Imported
+Text - ABOUT WP RENTALS - Imported
+
+Second Footer Widget Area : 
+
+Recent Posts - Latest News - Imported
+Search - No Title - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+Wp Estate: Social Links - Social Links: - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Multiple currency widget - Change Currency - Imported
+
+Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - Social Links: - Imported
+
+Owner Page : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wprentals_admin finished successfully!
+
+---pt-ocdi/after_import---
+

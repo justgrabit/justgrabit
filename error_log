@@ -1,0 +1,111 @@
+[04-Nov-2019 17:59:47 UTC] PHP Warning:  strpos(): Empty needle in /home3/justgra4/public_html/wp-includes/functions.php on line 4360
+[04-Nov-2019 17:59:47 UTC] PHP Warning:  strpos(): Empty needle in /home3/justgra4/public_html/wp-includes/functions.php on line 4360
+[04-Nov-2019 17:59:48 UTC] mojo_plugin_activated
+[05-Nov-2019 06:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpestate_widgets_init() in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php:16
+Stack trace:
+#0 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): register_wpestate_widgets('')
+#1 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home3/justgra4/public_html/wp-includes/widgets.php(1715): do_action('widgets_init')
+#4 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#7 /home3/justgra4/public_html/wp-settings.php(525): do_action('init')
+#8 phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1188): require('/home3/justgra4...')
+#9 phar:///usr/local/bin/wp/vendor/ in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php on line 16
+[05-Nov-2019 06:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpestate_widgets_init() in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php:16
+Stack trace:
+#0 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): register_wpestate_widgets('')
+#1 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home3/justgra4/public_html/wp-includes/widgets.php(1715): do_action('widgets_init')
+#4 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#7 /home3/justgra4/public_html/wp-settings.php(525): do_action('init')
+#8 phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1188): require('/home3/justgra4...')
+#9 phar:///usr/local/bin/wp/vendor/ in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php on line 16
+[05-Nov-2019 14:54:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpestate_widgets_init() in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php:16
+Stack trace:
+#0 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): register_wpestate_widgets('')
+#1 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home3/justgra4/public_html/wp-includes/widgets.php(1715): do_action('widgets_init')
+#4 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#7 /home3/justgra4/public_html/wp-settings.php(525): do_action('init')
+#8 phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1188): require('/home3/justgra4...')
+#9 phar:///usr/local/bin/wp/vendor/ in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php on line 16
+[05-Nov-2019 14:56:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpestate_widgets_init() in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php:16
+Stack trace:
+#0 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): register_wpestate_widgets('')
+#1 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home3/justgra4/public_html/wp-includes/widgets.php(1715): do_action('widgets_init')
+#4 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#7 /home3/justgra4/public_html/wp-settings.php(525): do_action('init')
+#8 phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1188): require('/home3/justgra4...')
+#9 phar:///usr/local/bin/wp/vendor/ in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php on line 16
+[05-Nov-2019 14:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpestate_widgets_init() in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php:16
+Stack trace:
+#0 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): register_wpestate_widgets('')
+#1 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home3/justgra4/public_html/wp-includes/widgets.php(1715): do_action('widgets_init')
+#4 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#7 /home3/justgra4/public_html/wp-settings.php(525): do_action('init')
+#8 phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1188): require('/home3/justgra4...')
+#9 phar:///usr/local/bin/wp/vendor/ in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php on line 16
+[05-Nov-2019 15:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpestate_widgets_init() in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php:16
+Stack trace:
+#0 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): register_wpestate_widgets('')
+#1 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home3/justgra4/public_html/wp-includes/widgets.php(1715): do_action('widgets_init')
+#4 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /home3/justgra4/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home3/justgra4/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#7 /home3/justgra4/public_html/wp-settings.php(525): do_action('init')
+#8 phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1188): require('/home3/justgra4...')
+#9 phar:///usr/local/bin/wp/vendor/ in /home3/justgra4/public_html/wp-content/plugins/wprentals-core/widgets.php on line 16
+[05-Nov-2019 15:22:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[05-Nov-2019 15:22:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[05-Nov-2019 15:23:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[05-Nov-2019 15:23:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[05-Nov-2019 15:23:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[05-Nov-2019 15:23:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:03:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:03:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:14:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:14:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:18:17 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:18:17 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:23:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:23:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:28:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:28:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:32:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:32:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:36:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:36:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:42:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:42:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:46:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:46:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:52:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:52:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:59:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 17:59:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:05:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:05:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:12:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:12:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:15:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:15:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:18:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
+[13-Nov-2019 18:18:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home3/justgra4/public_html/wp-content/themes/wprentals/libs/general-settings.php on line 82
